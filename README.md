@@ -14,19 +14,19 @@ JustiFy es una aplicación móvil que te ayuda a generar excusas para diferentes
 
 ### Pantalla Principal
 
-<img src="assets/images/1.png" alt="Home Page" width="200" height="356">
+<img src="assets/images/1.png" alt="Home Page" width="200" height="400">
 
 ### Crear Nueva Excusa
 
-<img src="assets/images/4.png" alt="Create Excuse" width="200" height="356">
+<img src="assets/images/4.png" alt="Create Excuse" width="200" height="400">
 
 ### Excusas Guardadas
 
-<img src="assets/images/3.png" alt="Saved Excuses" width="200" height="356">
+<img src="assets/images/3.png" alt="Saved Excuses" width="200" height="400">
 
 ### Pantalla de Favoritos
 
-<img src="assets/images/2.png" alt="Favorite Excuses" width="200" height="356">
+<img src="assets/images/2.png" alt="Favorite Excuses" width="200" height="400">
 
 ## Uso
 
